@@ -44,14 +44,14 @@ $ cat about.txt
 <h2>🔗 social_links --connect</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/GANTI_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" /></a>
-  <a href="mailto:GANTI_EMAIL"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14" /></a>
-  <a href="https://twitter.com/GANTI_TWITTER"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=39FF14" /></a>
-  <a href="https://GANTI_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=39FF14" /></a>
+  <a href="https://www.linkedin.com/in/anglykhan/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" /></a>
+  <a href="mailto:anglykhan07@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14" /></a>
+  <a href="https://x.com/kahn_ly"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=39FF14" /></a>
+  <a href="https://lykhan-portfolio2025.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=39FF14" /></a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GANTI_USERNAME/GANTI_USERNAME/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/LyKhan77/LyKhan77/output/snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center"><sub>$ echo "thanks for visiting" _</sub></p>
