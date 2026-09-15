@@ -33,12 +33,6 @@ $ cat about.txt
   <img src="https://streak-stats.demolab.com/?user=LyKhan77&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
-<h2>📈 activity --graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LyKhan77&custom_title=Contribution%20Graph&bg_color=0D1117&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
 <h2>💬 quote --random</h2>
 
 <p align="center">
