@@ -25,8 +25,7 @@ $ cat about.txt
 <h2>📊 github_stats --verbose</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LyKhan77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyKhan77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="./metrics.svg" alt="GitHub Metrics" />
 </p>
 
 <p align="center">
