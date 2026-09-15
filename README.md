@@ -7,15 +7,6 @@
   <img src="https://img.shields.io/github/followers/LyKhan77?label=Followers&style=flat-square&color=00D2BE" alt="Followers" />
 </p>
 
-```bash
-$ cat about.txt
-> Name     : Angly Khan
-> Role     : Software Engineer / AI Engineer / Computer Vision Specialist
-> Location : Jakarta, Indonesia
-> Focus    : Software Engineering, LLM, Computer Vision
-> Fun fact : Yapping 🗣️ (get me started on AI/CV and I will not stop)
-```
-
 <h2>📡 tech_stack --list</h2>
 
 <p align="center">
